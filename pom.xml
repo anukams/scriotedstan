@@ -12,7 +12,7 @@
 	<artifactId>scriptedstan</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>scriptedstan</name>
-	<description>Scripted  project for Spring Boot</description>
+	<description>scriptedstan  project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
